@@ -1,6 +1,8 @@
+#Portfolio-Website
+
 This is a simple portfolio website template designed to showcase your skills, education, and projects. The website includes navigation buttons for easy access to different sections.
 
-Navigation Buttons
+#Navigation Buttons
 Home: The landing page of your portfolio website. It provides an introduction and overview of your profile.
 
 About: A section dedicated to a more detailed biography. Share information about yourself, including your background, interests, and passion for your field.
@@ -15,7 +17,7 @@ Contact: Provide contact information for visitors to reach out to you. Include a
 
 Technologies Used HTML CSS Bootstrap (for responsive design and navigation) Javascrpt
 
-Getting Started
+#Getting Started
 Clone the repository to your local machine:
 
 git clone https:https://atulkumar975656.github.io/Portfolio-Website/
